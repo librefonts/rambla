@@ -1,0 +1,87 @@
+{
+  "name": "Rambla",
+  "designer": "Martin Sommaruga",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 16956,
+  "fonts": [
+    {
+      "name": "Rambla",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Rambla-Regular-TTF.ttf",
+      "postScriptName": "Rambla-Regular",
+      "fullName": "Rambla",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Rambla-Regular-Italic-TTF.ttf",
+      "postScriptName": "Rambla-Italic",
+      "fullName": "Rambla Italic",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "italic",
+      "weight": 700,
+      "filename": "Rambla-BoldItalic-TTF.ttf",
+      "postScriptName": "Rambla-BoldItalic",
+      "fullName": "Rambla Bold Italic",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Rambla-Bold-TTF.ttf",
+      "postScriptName": "Rambla-Bold",
+      "fullName": "Rambla Bold",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Rambla-Bold.ttf",
+      "postScriptName": "Rambla-Bold",
+      "fullName": "Rambla Bold",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "italic",
+      "weight": 700,
+      "filename": "Rambla-BoldItalic.ttf",
+      "postScriptName": "Rambla-BoldItalic",
+      "fullName": "Rambla Bold Italic",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Rambla-Italic.ttf",
+      "postScriptName": "Rambla-Italic",
+      "fullName": "Rambla Italic",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    },
+    {
+      "name": "Rambla",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Rambla-Regular.ttf",
+      "postScriptName": "Rambla-Regular",
+      "fullName": "Rambla",
+      "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}

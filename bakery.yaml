@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [Rambla-Regular.ttf.ttx, Rambla-Italic.ttf.ttx, Rambla-BoldItalic.ttf.ttx,
+  Rambla-Bold.ttf.ttx, src/Rambla-Regular.otf.ttx, src/Rambla-Regular-Italic.otf.ttx,
+  src/Rambla-BoldItalic.otf.ttx, src/Rambla-Bold.otf.ttx, src/Rambla-Regular-TTF.sfd,
+  src/Rambla-Regular-Italic-TTF.sfd, src/Rambla-BoldItalic-TTF.sfd, src/Rambla-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
